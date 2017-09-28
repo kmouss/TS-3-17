@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "TechSummitDemo1", "TechSummitDemo1\TechSummitDemo1.sfproj", "{78448038-0A55-4F1F-98DF-6C65ADE333D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStateful1", "MyStateful1\MyStateful1.csproj", "{E4928653-8C04-4536-AC16-8CE466D1D5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Debug|x64.ActiveCfg = Debug|x64
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Debug|x64.Build.0 = Debug|x64
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Debug|x64.Deploy.0 = Debug|x64
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Release|x64.ActiveCfg = Release|x64
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Release|x64.Build.0 = Release|x64
+		{78448038-0A55-4F1F-98DF-6C65ADE333D8}.Release|x64.Deploy.0 = Release|x64
+		{E4928653-8C04-4536-AC16-8CE466D1D5EC}.Debug|x64.ActiveCfg = Debug|x64
+		{E4928653-8C04-4536-AC16-8CE466D1D5EC}.Debug|x64.Build.0 = Debug|x64
+		{E4928653-8C04-4536-AC16-8CE466D1D5EC}.Release|x64.ActiveCfg = Release|x64
+		{E4928653-8C04-4536-AC16-8CE466D1D5EC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
